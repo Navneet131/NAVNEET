@@ -2,4 +2,4 @@
 hye everyone!
 The name of our project is "live safe, live smart", we are going to design an application that will help our society and mainly the women of our society.
 through the help of this application people can send their location directly to some designeted contacts whenever they don't feel safe and this can be 
-even send without any internet connection. 
+even send without any internet connection. the cell phones of people can be located even after they are off. 
